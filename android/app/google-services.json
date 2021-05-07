@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710720100417",
+    "project_id": "loanremind",
+    "storage_bucket": "loanremind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710720100417:android:212600d0fa9bb15dbc4ec0",
+        "android_client_info": {
+          "package_name": "com.loanremind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710720100417-hsk9qmomomshjpsup6c28rkius97o382.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVcjLoKumt9ZUHEU1wPzEyB8OEqh5RL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710720100417-hsk9qmomomshjpsup6c28rkius97o382.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
